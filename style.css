@@ -1,0 +1,20 @@
+.steambutton {
+    background-color: #5c7e10;
+    display: inline-block;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    color: #e5e4dc;
+    font-weight: normal;
+    display: inline-block;
+    position: relative;
+  text-align: left;
+}
+
+body{
+    background: #171a21;
+    font-family: "Motiva Sans", Sans-serif;
+    }
+
+#app{
+color: #e5e4dc;
+    }
